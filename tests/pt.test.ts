@@ -45,6 +45,17 @@ describe('Portuguese', () => {
       expect(ms('1m 30s 61ms')).toBe(90061);
     });
 
+    it('parses portuguese-specific unit names and abbreviations', () => {
+      expect(ms('2 meses')).toBe(2 * 2_628_000_000);
+      expect(ms('2 semanas')).toBe(2 * 604_800_000);
+      expect(ms('2sem')).toBe(2 * 604_800_000);
+    });
+
+    it('parses accented portuguese unit names correctly', () => {
+      expect(ms('2 séculos')).toBe(2 * 3_153_600_000_000);
+      expect(ms('2 milênios')).toBe(2 * 31_536_000_000_000);
+    });
+
     it('returns zero for invalid durations', () => {
       expect(ms('nyr9341')).toBe(0);
       expect(ms('o4utrc89nyt')).toBe(0);
