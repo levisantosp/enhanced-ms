@@ -62,6 +62,7 @@ The currently supported languages include:
 | French                | fr    |
 | Czech                 | cs    |
 | Polish                | pl    |
+| Portuguese            | pt    |
 | Chinese (Simplified)  | zh-CN |
 
 You can help by adding support for more languages.
