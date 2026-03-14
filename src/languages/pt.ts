@@ -1,5 +1,5 @@
 export default {
-  decimal: '.',
+  decimal: ',',
   and: 'e',
 
   units: {
@@ -44,9 +44,9 @@ export default {
       matches: ['semana', 'semanas', 'sem'],
     },
     month: {
-      name: (c) => (c === 1 ? 'mês' : 'mêses'),
+      name: (c) => (c === 1 ? 'mês' : 'meses'),
       abbreviation: 'me',
-      matches: ['mês', 'mêses', 'me'],
+      matches: ['mês', 'meses', 'me'],
     },
     year: {
       name: (c) => (c === 1 ? 'ano' : 'anos'),
