@@ -8,8 +8,8 @@
   <img alt='package version' src='https://img.shields.io/npm/v/enhanced-ms?label=version'>
   <img alt='total downloads' src='https://img.shields.io/npm/dt/enhanced-ms'>
   <br>
-  <a href='https://github.com/apteryxxyz/enhanced-ms'><img alt='enhanced-ms repo stars' src='https://img.shields.io/github/stars/apteryxxyz/enhanced-ms?style=social'></a>
-  <a href='https://github.com/apteryxxyz'><img alt='apteryxxyz followers' src='https://img.shields.io/github/followers/apteryxxyz?style=social'></a>
+  <a href='https://github.com/k0d13/enhanced-ms'><img alt='enhanced-ms repo stars' src='https://img.shields.io/github/stars/k0d13/enhanced-ms?style=social'></a>
+  <a href='https://github.com/k0d13'><img alt='k0d13 followers' src='https://img.shields.io/github/followers/k0d13?style=social'></a>
   <a href='https://discord.gg/JKBvGndjDx'><img src='https://discordapp.com/api/guilds/829836158007115806/widget.png?style=shield' alt='discord shield'/></a>
 </div>
 
@@ -67,7 +67,7 @@ The currently supported languages include:
 
 You can help by adding support for more languages.
 
-Make a pull request [here](https://github.com/apteryxxyz/enhanced-ms/tree/main/src/languages).
+Make a pull request [here](https://github.com/k0d13/enhanced-ms/tree/main/src/languages).
 
 ## 🚀 Usage
 
