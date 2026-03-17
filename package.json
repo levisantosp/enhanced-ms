@@ -16,13 +16,13 @@
     "pretty",
     "print"
   ],
-  "homepage": "https://github.com/apteryxxyz/enhanced-ms#readme",
+  "homepage": "https://github.com/k0d13/enhanced-ms#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apteryxxyz/enhanced-ms.git"
+    "url": "git+https://github.com/k0d13/enhanced-ms.git"
   },
   "bugs": {
-    "url": "https://github.com/apteryxxyz/enhanced-ms/issues"
+    "url": "https://github.com/k0d13/enhanced-ms/issues"
   },
   "files": ["dist"],
   "main": "./dist/index.cjs",
